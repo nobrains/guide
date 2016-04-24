@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+# dist
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+tmp/*
+.idea/*
+sign.js
+.sass-cache
+*.map
+npm-debug.log
+
